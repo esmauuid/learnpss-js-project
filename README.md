@@ -79,8 +79,7 @@ Listelenen her dersin üzerinde detay, düzenle ve sil butonları bulunur. Düze
 
 ## Canlı Demo
 
-Netlify linki eklenecek.
-
+learnpss.netlify.com
 ## Github Linki
 
-Github repo linki eklenecek.
+https://github.com/esmauuid/learnpss-js-project
