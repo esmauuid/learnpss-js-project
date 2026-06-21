@@ -1,0 +1,13 @@
+Proje Adı: LearnPSS Ders Takip Uygulaması
+
+Kullanılan Teknolojiler:
+ReactJS, Vite, React Router DOM, Pure CSS, LocalStorage
+
+Proje Açıklaması:
+Bu proje, kullanıcıların ders ekleyebildiği, dersleri listeleyebildiği, ders bilgilerini güncelleyebildiği ve ders silebildiği React tabanlı bir ders takip uygulamasıdır. Uygulama içinde CRUD işlemleri gerçekleştirilmiş ve verilerin tarayıcıda kalıcı olması için LocalStorage kullanılmıştır.
+
+Github Linki:
+Buraya Github repo linki eklenecek.
+
+Canlı Demo Linki:
+Buraya Netlify veya benzeri platform linki eklenecek.
